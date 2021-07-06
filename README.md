@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdansev
-- 👀 Recent interests in React and Go
+- 👀 I'm interested in 3D web development, and React + Go stack 
 - 🌱 Crrently learning Neovim Nightly with Debian
 - 📫 Reach me at: jdsevilla1996@gmail.com
 
