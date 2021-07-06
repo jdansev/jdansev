@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdansev
-- 👀 Interested in any and all technologies
-- 🌱 Crrently learning Neovim Nightly on Debian
+- 👀 Recent interests in React and Go
+- 🌱 Crrently learning Neovim Nightly with Debian
 - 📫 Reach me at: jdsevilla1996@gmail.com
 
 <!---
